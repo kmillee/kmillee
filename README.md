@@ -1,4 +1,5 @@
 🐧 hi fellow coder,
+
 here you can find some of the projects i've worked on, mainly during specific courses (hopefully some personal ones soon!)
 
 <!---
